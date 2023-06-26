@@ -25,14 +25,7 @@
 
 ###
 
-<br clear="both">
+![](https://raw.githubusercontent.com/lei00764/lei00764/main/assets/github-contribution-grid-snake.svg)
 
-<img src="https://raw.githubusercontent.com/lei00764/lei00764/output/snake.svg" alt="Snake animation" />
 
-###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/lei00764/count.svg?"  />
-</div>
-
-###
