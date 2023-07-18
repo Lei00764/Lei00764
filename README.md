@@ -13,9 +13,6 @@
 
 </div>
 
-###
-
-![](https://raw.githubusercontent.com/lei00764/lei00764/main/assets/github-contribution-grid-snake.svg)
 
 
 
