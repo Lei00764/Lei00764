@@ -4,6 +4,9 @@
 
 <div align="center">
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lei00764)](https://github.com/anuraghazra/github-readme-stats)
+ </div>
+
+ <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lei00764/Lei00764/output/github-contribution-grid-snake-dark.svg">
