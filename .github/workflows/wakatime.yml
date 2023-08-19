@@ -16,3 +16,4 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
            # 时间线
           SHOW_LOC_CHART: False
+          SHOW_PROFILE_VIEWS: False
