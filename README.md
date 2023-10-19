@@ -3,13 +3,13 @@
 ###
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-252%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-259%20hrs%2052%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 454.3 kB Used in GitHub's Storage 
+> 📦 454.4 kB Used in GitHub's Storage 
  > 
-> 🏆 655 Contributions in the Year 2023
+> 🏆 657 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -48,17 +48,17 @@ Mac                      12 hrs 10 mins      ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   6 repos             ████████░░░░░░░░░░░░░░░░░   31.58 % 
+Python                   5 repos             ███████░░░░░░░░░░░░░░░░░░   26.32 % 
 Vue                      4 repos             █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
+TeX                      3 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79 % 
 C#                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 ```
 
 
 
 
- Last Updated on 18/10/2023 20:39:00 UTC
+ Last Updated on 19/10/2023 11:47:00 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
