@@ -1,7 +1,6 @@
 <h2 align="left">Hi 👋! My name is Xiang Lei, and I'm a CSer from Tongji University in Shanghai, China.</h2>
 
 ###
-![](https://komarev.com/ghpvc/?username=Lei00764)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-264%20hrs%2020%20mins-blue)
