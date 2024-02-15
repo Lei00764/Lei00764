@@ -23,16 +23,16 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TeX                      18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-resume                   18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -48,7 +48,7 @@ C#                       2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 14/02/2024 20:38:28 UTC
+ Last Updated on 15/02/2024 20:39:02 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
