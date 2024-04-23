@@ -11,8 +11,6 @@
  > 
 > 🏆 65 Contributions in the Year 2024
  > 
-> 🚫 Not Opted to Hire
- > 
 > 📜 27 Public Repositories 
  > 
 > 🔑 1 Private Repositories 
