@@ -9,7 +9,7 @@
 
 > 📦 2.3 MB Used in GitHub's Storage 
  > 
-> 🏆 92 Contributions in the Year 2024
+> 🏆 93 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -23,15 +23,13 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 min               ███████████████░░░░░░░░░░   60.86 % 
-Python                   1 min               ██████████░░░░░░░░░░░░░░░   39.14 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████░░░░░░░░   67.00 % 
-Cursor                   1 min               ████████░░░░░░░░░░░░░░░░░   33.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -47,7 +45,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 28/09/2024 20:39:50 UTC
+ Last Updated on 29/09/2024 20:39:43 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
