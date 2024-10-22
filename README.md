@@ -3,13 +3,11 @@
 ###
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-604%20hrs%2025%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 2.3 MB Used in GitHub's Storage 
  > 
-> 🏆 86 Contributions in the Year 2024
+> 🏆 80 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -23,13 +21,15 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 13 mins        █████████████████████████   100.00 % 
+Python                   1 hr 13 mins        ████████████████████████░   96.87 % 
+Git Config               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
 
 🔥 Editors: 
-Cursor                   1 hr 13 mins        █████████████████████████   100.00 % 
+Cursor                   1 hr 16 mins        █████████████████████████   99.98 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Windows                  1 hr 13 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 16 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -45,7 +45,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 21/10/2024 20:41:12 UTC
+ Last Updated on 22/10/2024 20:41:04 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
