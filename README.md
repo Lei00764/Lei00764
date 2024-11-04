@@ -3,6 +3,8 @@
 ###
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-608%20hrs%2052%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 📦 2.3 MB Used in GitHub's Storage 
@@ -48,7 +50,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/11/2024 20:39:39 UTC
+ Last Updated on 04/11/2024 20:40:38 UTC
 <!--END_SECTION:waka-->
 
 <div align="center">
