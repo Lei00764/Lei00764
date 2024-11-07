@@ -54,6 +54,11 @@ C                        1 repo              █░░░░░░░░░░�
  Last Updated on 07/11/2024 03:51:02 UTC
 <!--END_SECTION:waka-->
 
+**📝 Latest Blog Posts** 
+
+- Representing Position & Orientation[https://lei00764.github.io/posts/2024-10-24-%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AD%A6%E4%B8%AD%E7%9A%84%E5%A7%BF%E6%80%81%E7%9A%84%E8%A1%A8%E7%A4%BA%E6%96%B9%E6%B3%95/index.html]
+
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lei00764&show_icons=true&theme=radical" />
  </div>
