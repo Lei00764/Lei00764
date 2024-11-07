@@ -5,18 +5,6 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-609%20hrs%2012%20mins-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 2.3 MB Used in GitHub's Storage 
- > 
-> 🏆 80 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 29 Public Repositories 
- > 
-> 🔑 5 Private Repositories 
- > 
 📊 **This Week I Spent My Time On** 
 
 ```text
