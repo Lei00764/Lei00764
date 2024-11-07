@@ -1,16 +1,18 @@
 <h2 align="left">Hi 👋! My name is Xiang Lei, and I'm a CSer from Tongji University in Shanghai, China.</h2>
 
----
-<img align= "right" width= "250" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
-### 
+<img align= "right" width= "300" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
+
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-609%20hrs%2012%20mins-blue)
 
 - A Software Engineering Undergraduate Student & Open Source enthusiast.
-- 🌱 I'm currently learning Artificial Intelligence & Robotics & Mathematics.
-- 💬 I like chatting. Be free to ask me about anything on [2053932@tongji.edu.cn](2053932@tongji.edu.cn)
+- 🌱 I'm currently learning:
+  - Artificial Intelligence
+  - Robotics
+  - Mathematics
+  - ...
 
 📊 **This Week I Spent My Time On** 
 
