@@ -1,6 +1,13 @@
 <h2 align="left">Hi 👋! My name is Xiang Lei, and I'm a CSer from Tongji University in Shanghai, China.</h2>
 
-###
+---
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+
+### 
+
+- A Software Engineering Undergraduate Student & Open Source enthusiast.
+- 🌱 I'm currently learning Artificial Intelligence & Robotics & Mathematics.
+- 💬 I like chatting. Be free to ask me about anything on [2053932@tongji.edu.cn](2053932@tongji.edu.cn)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-609%20hrs%2012%20mins-blue)
