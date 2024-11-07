@@ -5,12 +5,12 @@
 
 ### 
 
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-609%20hrs%2012%20mins-blue)
+
 - A Software Engineering Undergraduate Student & Open Source enthusiast.
 - 🌱 I'm currently learning Artificial Intelligence & Robotics & Mathematics.
 - 💬 I like chatting. Be free to ask me about anything on [2053932@tongji.edu.cn](2053932@tongji.edu.cn)
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-609%20hrs%2012%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
