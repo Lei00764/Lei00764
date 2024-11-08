@@ -18,5 +18,5 @@ jobs:
           SHOW_LOC_CHART: False
           SHOW_PROFILE_VIEWS: False
           SHOW_COMMIT: False
-          SHOW_DAYS_OF_WEEK: False
+          # SHOW_DAYS_OF_WEEK: False
           SHOW_PROJECTS: False
