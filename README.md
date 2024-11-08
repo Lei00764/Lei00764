@@ -46,12 +46,8 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/Lei00764/Lei00764/main/assets/bar_graph.png)
-
-
- Last Updated on 08/11/2024 01:24:34 UTC
+ Last Updated on 08/11/2024 01:32:39 UTC
 <!--END_SECTION:waka-->
 
 
