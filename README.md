@@ -5,11 +5,13 @@
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-609%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-612%20hrs%2031%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 2.3 MB Used in GitHub's Storage 
+ > 
+> 🏆 93 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -17,19 +19,6 @@
  > 
 > 🔑 5 Private Repositories 
  > 
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   423 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.81 % 
-Tuesday                  452 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
-Wednesday                514 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
-Thursday                 358 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
-Friday                   494 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
-Saturday                 275 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
-Sunday                   341 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -63,8 +52,12 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
+**Timeline**
 
- Last Updated on 08/11/2024 01:15:53 UTC
+![Lines of Code chart](https://raw.githubusercontent.com/Lei00764/Lei00764/main/assets/bar_graph.png)
+
+
+ Last Updated on 08/11/2024 01:21:17 UTC
 <!--END_SECTION:waka-->
 
 
