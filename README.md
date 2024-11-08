@@ -7,18 +7,6 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-612%20hrs%2031%20mins-blue)
 
-**🐱 My GitHub Data** 
-
-> 📦 2.3 MB Used in GitHub's Storage 
- > 
-> 🏆 93 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 29 Public Repositories 
- > 
-> 🔑 5 Private Repositories 
- > 
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -57,7 +45,7 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/Lei00764/Lei00764/main/assets/bar_graph.png)
 
 
- Last Updated on 08/11/2024 01:21:17 UTC
+ Last Updated on 08/11/2024 01:24:34 UTC
 <!--END_SECTION:waka-->
 
 
