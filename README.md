@@ -11,7 +11,7 @@
   - ...
  
 **📝 Latest Blog Posts** 
-
+- [Introduction: Deep Reinforcement Learning](https://lei00764.github.io/posts/2024-11-27-%E6%B7%B1%E5%BA%A6%E5%BC%BA%E5%8C%96%E5%AD%A6%E4%B9%A0%E5%85%A5%E9%97%A8%E4%BB%8B%E7%BB%8D/index.html)
 - [Representing Position & Orientation](https://lei00764.github.io/posts/2024-10-24-%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AD%A6%E4%B8%AD%E7%9A%84%E5%A7%BF%E6%80%81%E7%9A%84%E8%A1%A8%E7%A4%BA%E6%96%B9%E6%B3%95/index.html)
 
 <!--START_SECTION:waka-->
