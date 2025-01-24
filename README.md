@@ -24,16 +24,13 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   3 hrs 21 mins       ███████████████████░░░░░░   76.93 % 
-XML                      54 mins             █████░░░░░░░░░░░░░░░░░░░░   20.86 % 
-YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
-CSV                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 hrs 21 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    4 hrs 21 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -49,7 +46,7 @@ Jupyter Notebook         3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 23/01/2025 20:40:17 UTC
+ Last Updated on 24/01/2025 20:39:29 UTC
 <!--END_SECTION:waka-->
 
 
