@@ -17,23 +17,6 @@
 - [Representing Position & Orientation](https://lei00764.github.io/posts/2024-10-24-%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AD%A6%E4%B8%AD%E7%9A%84%E5%A7%BF%E6%80%81%E7%9A%84%E8%A1%A8%E7%A4%BA%E6%96%B9%E6%B3%95/index.html)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C024%20hrs%2030%20mins-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -47,7 +30,7 @@ Jupyter Notebook         3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 21/09/2025 20:40:44 UTC
+ Last Updated on 22/09/2025 20:41:55 UTC
 <!--END_SECTION:waka-->
 
 
