@@ -19,22 +19,6 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C025%20hrs%2031%20mins-blue)
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   52 mins             ████████████████████████░   96.98 % 
-Text                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
-
-🔥 Editors: 
-Cursor                   54 mins             █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  54 mins             █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -48,7 +32,7 @@ Jupyter Notebook         3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 29/09/2025 20:41:14 UTC
+ Last Updated on 30/09/2025 20:42:14 UTC
 <!--END_SECTION:waka-->
 
 
