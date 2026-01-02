@@ -17,27 +17,6 @@
 - [Representing Position & Orientation](https://lei00764.github.io/posts/2024-10-24-%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AD%A6%E4%B8%AD%E7%9A%84%E5%A7%BF%E6%80%81%E7%9A%84%E8%A1%A8%E7%A4%BA%E6%96%B9%E6%B3%95/index.html)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C137%20hrs%2047%20mins-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Python                   4 hrs 48 mins       ████████████████████░░░░░   79.83 % 
-Markdown                 45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.70 % 
-Other                    21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
-JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-
-🔥 Editors: 
-Cursor                   6 hrs 1 min         █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    6 hrs 1 min         █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -51,7 +30,7 @@ Jupyter Notebook         3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 01/01/2026 20:46:34 UTC
+ Last Updated on 02/01/2026 20:45:32 UTC
 <!--END_SECTION:waka-->
 
 
