@@ -17,7 +17,7 @@
 - [Representing Position & Orientation](https://lei00764.github.io/posts/2024-10-24-%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%AD%A6%E4%B8%AD%E7%9A%84%E5%A7%BF%E6%80%81%E7%9A%84%E8%A1%A8%E7%A4%BA%E6%96%B9%E6%B3%95/index.html)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C383%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C389%20hrs%204%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -25,35 +25,35 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Text                     9 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   34.96 % 
-Python                   5 hrs 20 mins       █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
-Bash                     4 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-Markdown                 3 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.02 % 
-Other                    1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
+Text                     9 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   35.12 % 
+Python                   5 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   20.69 % 
+Bash                     3 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+Markdown                 3 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
+Other                    1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
 
 🔥 Editors: 
-Cursor                   24 hrs 18 mins      ███████████████████████░░   90.09 % 
-VS Code                  2 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+Cursor                   24 hrs 36 mins      ███████████████████████░░   91.61 % 
+VS Code                  2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
 
 💻 Operating System: 
-Linux                    25 hrs 36 mins      ████████████████████████░   94.90 % 
-Mac                      1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+Linux                    25 hrs 28 mins      ████████████████████████░   94.88 % 
+Mac                      1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   28 repos            ████████████░░░░░░░░░░░░░   46.67 % 
-TeX                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-C++                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.67 % 
-Jupyter Notebook         3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Python                   29 repos            ████████████░░░░░░░░░░░░░   47.54 % 
+TeX                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+C++                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+Jupyter Notebook         3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
 ```
 
 
 
 
- Last Updated on 27/03/2026 21:05:09 UTC
+ Last Updated on 28/03/2026 20:57:42 UTC
 <!--END_SECTION:waka-->
 
 
