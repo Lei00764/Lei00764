@@ -3,10 +3,10 @@
 
 <img align= "right" width= "300" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
 
-- A Software Engineering Undergraduate Student & Open Source enthusiast.
+- A learner, builder, and open-source enthusiast.
 - 🌱 I'm currently learning:
-  - Artificial Intelligence
-  - Robotics
+  - RL + LLMs
+  - RL + Robotics
   - Mathematics
   - ...
  
