@@ -12,7 +12,7 @@
  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C566%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C572%20hrs%2040%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -20,35 +20,35 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 13 hrs 19 mins      ██████████████░░░░░░░░░░░   54.96 % 
-Other                    5 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   22.63 % 
-Python                   3 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   12.39 % 
-JSON                     1 hr 21 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
-YAML                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+Markdown                 18 hrs 26 mins      ███████████░░░░░░░░░░░░░░   45.01 % 
+Other                    10 hrs 17 mins      ██████░░░░░░░░░░░░░░░░░░░   25.10 % 
+Python                   6 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+Bash                     2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+JSON                     1 hr 20 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
 
 🔥 Editors: 
-Cursor                   18 hrs 56 mins      ████████████████████░░░░░   78.14 % 
-Unknown Editor           5 hrs 18 mins       █████░░░░░░░░░░░░░░░░░░░░   21.86 % 
+Cursor                   26 hrs 47 mins      ████████████████░░░░░░░░░   65.37 % 
+Unknown Editor           14 hrs 11 mins      █████████░░░░░░░░░░░░░░░░   34.63 % 
 
 💻 Operating System: 
-Linux                    18 hrs 25 mins      ███████████████████░░░░░░   75.96 % 
-Mac                      5 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   24.04 % 
+Linux                    35 hrs 9 mins       █████████████████████░░░░   85.78 % 
+Mac                      5 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   28 repos            ███████████░░░░░░░░░░░░░░   45.90 % 
-TeX                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
-C++                      4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
-Jupyter Notebook         3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+Python                   28 repos            ███████████░░░░░░░░░░░░░░   45.16 % 
+TeX                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+Jupyter Notebook         3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 ```
 
 
 
 
- Last Updated on 06/05/2026 21:41:00 UTC
+ Last Updated on 07/05/2026 21:31:37 UTC
 <!--END_SECTION:waka-->
 
 
