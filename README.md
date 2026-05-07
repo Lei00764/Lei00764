@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Xiang Lei, and I'm a CSer from Tongji University in Shanghai, China.</h2>
+<h2 align="left">Hi 👋! My name is Xiang Lei.</h2>
 
 
 <img align= "right" width= "300" src= "https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
