@@ -12,43 +12,20 @@
  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C932%20hrs%2032%20mins-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-Markdown                 36 hrs 45 mins      ██████████░░░░░░░░░░░░░░░   39.36 % 
-TypeScript               35 hrs 11 mins      █████████░░░░░░░░░░░░░░░░   37.69 % 
-Python                   9 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
-Bash                     3 hrs 51 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
-Other                    3 hrs 6 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
-
-🔥 Editors: 
-Cursor                   86 hrs 27 mins      ███████████████████████░░   92.57 % 
-Claude Code              6 hrs 56 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
-
-💻 Operating System: 
-Mac                      76 hrs 43 mins      █████████████████████░░░░   82.15 % 
-Linux                    16 hrs 40 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
-```
-
 **I Mostly Code in Python** 
 
 ```text
-Python                   28 repos            ███████████░░░░░░░░░░░░░░   45.16 % 
-TeX                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-Jupyter Notebook         3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
-TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+Python                   29 repos            ████████████░░░░░░░░░░░░░   46.03 % 
+TeX                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Jupyter Notebook         3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
 ```
 
 
 
 
- Last Updated on 27/05/2026 22:17:42 UTC
+ Last Updated on 28/05/2026 22:17:06 UTC
 <!--END_SECTION:waka-->
 
 
