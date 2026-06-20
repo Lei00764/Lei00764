@@ -12,7 +12,7 @@
  
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C128%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C134%20hrs%2038%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -20,36 +20,36 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 14 hrs              █████████░░░░░░░░░░░░░░░░   37.74 % 
-Python                   13 hrs 22 mins      █████████░░░░░░░░░░░░░░░░   36.05 % 
-Other                    1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
-JSON                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
-TOML                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+Markdown                 25 hrs 4 mins       ███████████░░░░░░░░░░░░░░   44.09 % 
+Python                   18 hrs 38 mins      ████████░░░░░░░░░░░░░░░░░   32.76 % 
+JSON                     2 hrs 20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
+Text                     1 hr 51 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+Bash                     1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
 
 🔥 Editors: 
-Cursor                   22 hrs 31 mins      ███████████████░░░░░░░░░░   60.69 % 
-Claude Code              14 hrs 7 mins       ██████████░░░░░░░░░░░░░░░   38.06 % 
-Codex CLI                27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+Cursor                   30 hrs 51 mins      ██████████████░░░░░░░░░░░   54.25 % 
+Claude Code              22 hrs 27 mins      ██████████░░░░░░░░░░░░░░░   39.47 % 
+Codex CLI                3 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
 
 💻 Operating System: 
-Linux                    34 hrs 43 mins      ███████████████████████░░   93.60 % 
-Mac                      2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+Linux                    47 hrs 43 mins      █████████████████████░░░░   83.90 % 
+Mac                      9 hrs 9 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   29 repos            ████████████░░░░░░░░░░░░░   46.03 % 
-TeX                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-Jupyter Notebook         3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+Python                   30 repos            ████████████░░░░░░░░░░░░░   46.88 % 
+TeX                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+Jupyter Notebook         3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
+TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 ```
 
 
 
 
- Last Updated on 19/06/2026 21:46:23 UTC
+ Last Updated on 20/06/2026 21:49:13 UTC
 <!--END_SECTION:waka-->
 
 
