@@ -20,35 +20,35 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   15 hrs 47 mins      ████████████░░░░░░░░░░░░░   47.68 % 
-Other                    9 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   29.38 % 
-Markdown                 4 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
-Bash                     1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
-HTML                     36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+Python                   16 hrs 35 mins      ████████████░░░░░░░░░░░░░   48.72 % 
+Other                    9 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   26.60 % 
+Markdown                 4 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+Bash                     1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
+HTML                     51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
 
 🔥 Editors: 
-Claude Code              24 hrs 31 mins      ███████████████████░░░░░░   74.03 % 
-Cursor                   8 hrs 36 mins       ██████░░░░░░░░░░░░░░░░░░░   25.97 % 
+Claude Code              26 hrs 6 mins       ███████████████████░░░░░░   76.65 % 
+Cursor                   7 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
 
 💻 Operating System: 
-Mac                      33 hrs 5 mins       █████████████████████████   99.87 % 
+Mac                      34 hrs              █████████████████████████   99.87 % 
 Linux                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   32 repos            ████████████░░░░░░░░░░░░░   48.48 % 
-TeX                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Jupyter Notebook         3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
-TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Python                   33 repos            ████████████░░░░░░░░░░░░░   49.25 % 
+TeX                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+Jupyter Notebook         3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 ```
 
 
 
 
- Last Updated on 12/07/2026 21:25:40 UTC
+ Last Updated on 13/07/2026 21:29:51 UTC
 <!--END_SECTION:waka-->
 
 
