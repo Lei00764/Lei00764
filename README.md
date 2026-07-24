@@ -12,35 +12,20 @@
  
 
 <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
-Python                   33 repos            ████████████░░░░░░░░░░░░░   49.25 % 
-TeX                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
-Jupyter Notebook         3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
-TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+Python                   34 repos            ████████████░░░░░░░░░░░░░   50.00 % 
+TeX                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 % 
+Jupyter Notebook         3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 ```
 
 
 
 
- Last Updated on 23/07/2026 21:36:22 UTC
+ Last Updated on 24/07/2026 21:39:19 UTC
 <!--END_SECTION:waka-->
 
 
