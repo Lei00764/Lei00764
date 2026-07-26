@@ -20,19 +20,19 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   28 hrs 26 mins      ██████████░░░░░░░░░░░░░░░   40.65 % 
-Markdown                 25 hrs 33 mins      █████████░░░░░░░░░░░░░░░░   36.53 % 
-HTML                     5 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
-TeX                      3 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
-YAML                     2 hrs 40 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+Python                   26 hrs 46 mins      ███████████░░░░░░░░░░░░░░   42.83 % 
+Markdown                 21 hrs 14 mins      ████████░░░░░░░░░░░░░░░░░   34.00 % 
+HTML                     5 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+YAML                     2 hrs 40 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
+TeX                      2 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
 
 🔥 Editors: 
-Claude Code              36 hrs 50 mins      █████████████░░░░░░░░░░░░   52.66 % 
-Cursor                   18 hrs 33 mins      ███████░░░░░░░░░░░░░░░░░░   26.52 % 
-Codex CLI                14 hrs 33 mins      █████░░░░░░░░░░░░░░░░░░░░   20.82 % 
+Claude Code              34 hrs 45 mins      ██████████████░░░░░░░░░░░   55.61 % 
+Codex CLI                14 hrs 33 mins      ██████░░░░░░░░░░░░░░░░░░░   23.31 % 
+Cursor                   13 hrs 10 mins      █████░░░░░░░░░░░░░░░░░░░░   21.08 % 
 
 💻 Operating System: 
-Mac                      69 hrs 57 mins      █████████████████████████   100.00 % 
+Mac                      62 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -48,7 +48,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 21:26:54 UTC
+ Last Updated on 26/07/2026 21:29:48 UTC
 <!--END_SECTION:waka-->
 
 
