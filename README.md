@@ -48,11 +48,11 @@ HTML                     2 repos             █░░░░░░░░░░�
 TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
 ```
 
- Last Updated on 02/08/2026 12:12:11 UTC + 8
+ Last Updated: 02/08/2026 12:29:38 (UTC+8)
 <!--END_SECTION:waka-->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lei00764&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Lei00764&show_icons=true&theme=radical" />
 </div>
 
 <div align="center">
