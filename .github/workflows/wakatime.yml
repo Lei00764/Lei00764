@@ -54,7 +54,7 @@ jobs:
           end = "<!--END_SECTION:waka-->"
           before, rest = text.split(start, 1)
           _, after = rest.split(end, 1)
-          section = f"{start}\n{stats}\n\n Last Updated on {bjt} 北京时间\n{end}"
+          section = f"{start}\n{stats}\n\n Last Updated on {bjt} UTC + 8\n{end}"
           readme.write_text(before + section + after)
           PY
       - name: Commit and push

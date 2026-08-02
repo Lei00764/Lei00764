@@ -9,6 +9,8 @@
   - Mathematics
   - ...
 
+<br clear="right" />
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C416%20hrs%2017%20mins-blue?style=flat)
 
@@ -46,7 +48,7 @@ HTML                     2 repos             █░░░░░░░░░░�
 TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
 ```
 
- Last Updated on 02/08/2026 12:12:11 北京时间
+ Last Updated on 02/08/2026 12:12:11 UTC + 8
 <!--END_SECTION:waka-->
 
 <div align="center">
