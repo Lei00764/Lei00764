@@ -12,9 +12,7 @@
 <br clear="right" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C416%20hrs%2017%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C172%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C416%20hrs%2017%20mins-blue?style=flat) ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C172%20hrs%2039%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On**
 
@@ -36,16 +34,6 @@ Codex CLI                3 hrs 36 mins       █░░░░░░░░░░�
 💻 Operating System:
 Mac                      89 hrs 29 mins      █████████████████████████   100.00 %
 Linux                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-```
-
-**I Mostly Code in Python**
-
-```text
-Python                   34 repos            ████████████░░░░░░░░░░░░░   50.00 %
-TeX                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.82 %
-Jupyter Notebook         3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
-TypeScript               1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
 ```
 
  Last Updated: 02/08/2026 12:29:38 (UTC+8)
