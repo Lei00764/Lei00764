@@ -1,15 +1,42 @@
-<h2 align="left">Hi 👋! My name is Xiang Lei.</h2>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,45:7c3aed,100:06b6d4&height=180&section=header&text=Xiang%20Lei&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=RL%20%2B%20LLMs%20%7C%20Robotics%20%7C%20Mathematics&descAlignY=56&descSize=16" />
 
-<img align="right" width="300" src="https://pa1.narvii.com/6580/8098c6e9207376889eeb0532d9f5a0723c4d73f5_hq.gif"/>
+  <h1>Hi, I'm Xiang Lei.</h1>
+  <p>A learner, builder, and open-source enthusiast working around RL, LLMs, robotics, and mathematical reasoning.</p>
 
-- A learner, builder, and open-source enthusiast.
-- 🌱 I'm currently learning:
-  - RL + LLMs
-  - RL + Robotics
-  - Mathematics
-  - ...
+  <p>
+    <img src="https://img.shields.io/badge/RL-22272e?style=for-the-badge&logo=databricks&logoColor=white" />
+    <img src="https://img.shields.io/badge/LLMs-22272e?style=for-the-badge&logo=openai&logoColor=white" />
+    <img src="https://img.shields.io/badge/Robotics-22272e?style=for-the-badge&logo=ros&logoColor=white" />
+    <img src="https://img.shields.io/badge/Mathematics-22272e?style=for-the-badge&logo=latex&logoColor=white" />
+    <img src="https://img.shields.io/badge/Open%20Source-22272e?style=for-the-badge&logo=github&logoColor=white" />
+  </p>
+</div>
 
-<br clear="right" />
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3>Focus</h3>
+      <ul>
+        <li>RL systems and agent training infrastructure</li>
+        <li>LLM reasoning, evaluation, and tool-use workflows</li>
+        <li>Robotics learning and embodied intelligence</li>
+        <li>Mathematics as a language for building cleaner models</li>
+      </ul>
+    </td>
+    <td valign="top" width="50%">
+      <h3>Current Learning</h3>
+      <ul>
+        <li>RL + LLMs</li>
+        <li>RL + Robotics</li>
+        <li>Mathematics</li>
+        <li>Open-source research tooling</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+<h2>Development Metrics</h2>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C416%20hrs%2017%20mins-blue?style=flat)
@@ -51,8 +78,11 @@ TypeScript               1 repo              ░░░░░░░░░░░�
  Last Updated: 02/08/2026 12:29:38 (UTC+8)
 <!--END_SECTION:waka-->
 
+<h2>GitHub Activity</h2>
+
 <div align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=Lei00764&show_icons=true&theme=radical" />
+  <img height="175" src="https://github-readme-stats-one-bice.vercel.app/api?username=Lei00764&show_icons=true&theme=radical&hide_border=true" />
+  <img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=Lei00764&theme=radical&hide_border=true" />
 </div>
 
 <div align="center">
