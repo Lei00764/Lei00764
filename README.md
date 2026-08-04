@@ -12,7 +12,7 @@
 <br clear="right" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C418%20hrs%2012%20mins-blue?style=flat) ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C174%20hrs%2035%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C430%20hrs%2038%20mins-blue?style=flat) ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C187%20hrs%202%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -20,23 +20,23 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   40 hrs 33 mins      ████████████░░░░░░░░░░░░░   48.63 % 
-Markdown                 24 hrs 24 mins      ███████░░░░░░░░░░░░░░░░░░   29.28 % 
-YAML                     10 hrs 40 mins      ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
-Bash                     4 hrs 49 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
-Other                    1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+Python                   34 hrs 32 mins      ███████████░░░░░░░░░░░░░░   43.47 % 
+Markdown                 33 hrs 15 mins      ██████████░░░░░░░░░░░░░░░   41.84 % 
+Bash                     5 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+YAML                     3 hrs 46 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+Other                    1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
 
 🔥 Editors: 
-Claude Code              68 hrs 43 mins      █████████████████████░░░░   82.42 % 
-Cursor                   10 hrs 21 mins      ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-Codex CLI                4 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
+Claude Code              36 hrs 17 mins      ███████████░░░░░░░░░░░░░░   45.67 % 
+Codex CLI                33 hrs 25 mins      ███████████░░░░░░░░░░░░░░   42.05 % 
+Cursor                   9 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.28 % 
 
 💻 Operating System: 
-Mac                      83 hrs 23 mins      █████████████████████████   99.99 % 
+Mac                      79 hrs 28 mins      █████████████████████████   99.99 % 
 Linux                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
- Last Updated: 03/08/2026 05:26:45 (UTC+8)
+ Last Updated: 05/08/2026 05:50:11 (UTC+8)
 <!--END_SECTION:waka-->
 
 <div align="center">
