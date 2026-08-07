@@ -12,30 +12,28 @@
 <br clear="right" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C461%20hrs%204%20mins-blue?style=flat) ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C217%20hrs%2045%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 40 hrs 50 mins      ████████████░░░░░░░░░░░░░   48.90 % 
-Python                   31 hrs 57 mins      ██████████░░░░░░░░░░░░░░░   38.28 % 
-Bash                     5 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
-YAML                     2 hrs 24 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
-Other                    1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
+Markdown                 43 hrs 20 mins      █████████████░░░░░░░░░░░░   53.44 % 
+Python                   29 hrs 15 mins      █████████░░░░░░░░░░░░░░░░   36.08 % 
+Bash                     3 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+YAML                     2 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+Other                    1 hr 47 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 
 🔥 Editors: 
-Codex CLI                53 hrs              ████████████████░░░░░░░░░   63.49 % 
-Claude Code              19 hrs 59 mins      ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
-Cursor                   10 hrs 30 mins      ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+Codex CLI                66 hrs 31 mins      █████████████████████░░░░   82.04 % 
+Cursor                   7 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.55 % 
+Claude Code              6 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
 
 💻 Operating System: 
-Mac                      83 hrs 30 mins      █████████████████████████   100.00 % 
+Mac                      81 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
- Last Updated: 06/08/2026 05:49:40 (UTC+8)
+ Last Updated: 07/08/2026 08:56:29 (UTC+8)
 <!--END_SECTION:waka-->
 
 <div align="center">
