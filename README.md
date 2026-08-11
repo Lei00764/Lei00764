@@ -12,7 +12,7 @@
 <br clear="right" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C558%20hrs%206%20mins-blue?style=flat) ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C315%20hrs%2027%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C582%20hrs%205%20mins-blue?style=flat) ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C339%20hrs%2026%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -20,24 +20,24 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 65 hrs 41 mins      █████████████░░░░░░░░░░░░   50.33 % 
-Python                   47 hrs 16 mins      █████████░░░░░░░░░░░░░░░░   36.22 % 
-Bash                     11 hrs 38 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   08.92 % 
-YAML                     2 hrs 8 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-JSON                     1 hr 2 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+Markdown                 65 hrs 10 mins      ███████████░░░░░░░░░░░░░░   45.66 % 
+Python                   58 hrs 44 mins      ██████████░░░░░░░░░░░░░░░   41.16 % 
+Bash                     11 hrs 57 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+YAML                     2 hrs 6 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+JSON                     1 hr 3 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 
 🔥 Editors: 
-Codex CLI                109 hrs 20 mins     █████████████████████░░░░   83.77 % 
-Cursor                   18 hrs 37 mins      ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-Claude Code              1 hr 33 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-Agent                    55 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
-Exec Wakatime            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Codex CLI                112 hrs 24 mins     ████████████████████░░░░░   78.76 % 
+Cursor                   27 hrs 10 mins      █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
+Claude Code              1 hr 56 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+Agent                    1 hr 6 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+Exec Wakatime            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Mac                      130 hrs 31 mins     █████████████████████████   100.00 % 
+Mac                      142 hrs 42 mins     █████████████████████████   100.00 % 
 ```
 
- Last Updated: 11/08/2026 05:20:57 (UTC+8)
+ Last Updated: 12/08/2026 05:23:45 (UTC+8)
 <!--END_SECTION:waka-->
 
 <div align="center">
