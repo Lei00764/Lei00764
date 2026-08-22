@@ -12,7 +12,7 @@
 <br clear="right" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C702%20hrs%2029%20mins-blue?style=flat) ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C461%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C705%20hrs%2027%20mins-blue?style=flat) ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C464%20hrs%2031%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -20,23 +20,23 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   47 hrs 20 mins      █████████████░░░░░░░░░░░░   52.03 % 
-Markdown                 22 hrs 25 mins      ██████░░░░░░░░░░░░░░░░░░░   24.65 % 
-JSON                     10 hrs 1 min        ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-CSS                      2 hrs 52 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
-HTML                     2 hrs 12 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+Python                   33 hrs 31 mins      ████████████░░░░░░░░░░░░░   46.84 % 
+Markdown                 18 hrs 13 mins      ██████░░░░░░░░░░░░░░░░░░░   25.47 % 
+JSON                     9 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
+CSS                      2 hrs 52 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.01 % 
+HTML                     2 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
 
 🔥 Editors: 
-Codex CLI                55 hrs 53 mins      ███████████████░░░░░░░░░░   61.42 % 
-Cursor                   24 hrs 23 mins      ███████░░░░░░░░░░░░░░░░░░   26.80 % 
-Claude Code              8 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
-Agent                    1 hr 44 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+Codex CLI                41 hrs 37 mins      ███████████████░░░░░░░░░░   58.16 % 
+Cursor                   19 hrs 29 mins      ███████░░░░░░░░░░░░░░░░░░   27.24 % 
+Claude Code              8 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+Agent                    1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 
 💻 Operating System: 
-Mac                      90 hrs 59 mins      █████████████████████████   100.00 % 
+Mac                      71 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
- Last Updated: 22/08/2026 04:52:06 (UTC+8)
+ Last Updated: 23/08/2026 04:50:53 (UTC+8)
 <!--END_SECTION:waka-->
 
 <div align="center">
