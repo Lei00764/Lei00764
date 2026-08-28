@@ -12,7 +12,7 @@
 <br clear="right" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C708%20hrs%2013%20mins-blue?style=flat) ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C467%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C713%20hrs%2025%20mins-blue?style=flat) ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C472%20hrs%2025%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -20,24 +20,24 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 9 hrs 29 mins       ███████████░░░░░░░░░░░░░░   43.87 % 
-Python                   5 hrs 33 mins       ██████░░░░░░░░░░░░░░░░░░░   25.69 % 
-JSON                     1 hr 28 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
-YAML                     1 hr 14 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-HTML                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+Markdown                 11 hrs 29 mins      ██████████████░░░░░░░░░░░   55.71 % 
+Python                   4 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
+YAML                     1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.87 % 
+JSON                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+HTML                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
 
 🔥 Editors: 
-Codex CLI                10 hrs 15 mins      ████████████░░░░░░░░░░░░░   47.41 % 
-Cursor                   6 hrs 24 mins       ███████░░░░░░░░░░░░░░░░░░   29.60 % 
-Claude Code              3 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
-Agent                    1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
-OpenClaw                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+Codex CLI                9 hrs 48 mins       ████████████░░░░░░░░░░░░░   47.53 % 
+Cursor                   7 hrs 30 mins       █████████░░░░░░░░░░░░░░░░   36.35 % 
+Claude Code              2 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+Agent                    1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+OpenClaw                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 
 💻 Operating System: 
-Mac                      21 hrs 38 mins      █████████████████████████   100.00 % 
+Mac                      20 hrs 37 mins      █████████████████████████   100.00 % 
 ```
 
- Last Updated: 27/08/2026 08:00:21 (UTC+8)
+ Last Updated: 28/08/2026 12:26:14 (UTC+8)
 <!--END_SECTION:waka-->
 
 <div align="center">
