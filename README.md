@@ -12,7 +12,7 @@
 <br clear="right" />
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C206%20hrs%2031%20mins-blue?style=flat) ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%2C987%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C221%20hrs%2019%20mins-blue?style=flat) ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-2%2C004%20hrs%2047%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -20,24 +20,24 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 52 hrs 16 mins      ██████████░░░░░░░░░░░░░░░   39.09 % 
-Python                   34 hrs 7 mins       ██████░░░░░░░░░░░░░░░░░░░   25.52 % 
-JSON                     16 hrs 10 mins      ███░░░░░░░░░░░░░░░░░░░░░░   12.09 % 
-Other                    11 hrs 53 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-Text                     9 hrs 38 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+Markdown                 46 hrs 18 mins      ██████████░░░░░░░░░░░░░░░   39.52 % 
+Python                   26 hrs 45 mins      ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
+JSON                     15 hrs 5 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
+Other                    11 hrs 6 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
+Text                     8 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
 
 🔥 Editors: 
-Claude Code              72 hrs 23 mins      ██████████████░░░░░░░░░░░   54.13 % 
-Cursor                   30 hrs 43 mins      ██████░░░░░░░░░░░░░░░░░░░   22.98 % 
-Codex Vscode             10 hrs 21 mins      ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
-Agent                    8 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
-Codex Exec               7 hrs 53 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.91 % 
+Claude Code              62 hrs 59 mins      █████████████░░░░░░░░░░░░   53.77 % 
+Cursor                   27 hrs 34 mins      ██████░░░░░░░░░░░░░░░░░░░   23.54 % 
+Codex Vscode             9 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+Codex Exec               7 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
+Agent                    7 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
 
 💻 Operating System: 
-Mac                      133 hrs 43 mins     █████████████████████████   100.00 % 
+Mac                      117 hrs 10 mins     █████████████████████████   100.00 % 
 ```
 
- Last Updated: 02/10/2026 08:05:50 (UTC+8)
+ Last Updated: 03/10/2026 07:58:04 (UTC+8)
 <!--END_SECTION:waka-->
 
 <div align="center">
