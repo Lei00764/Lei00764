@@ -20,24 +20,24 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 46 hrs 18 mins      ██████████░░░░░░░░░░░░░░░   39.52 % 
-Python                   26 hrs 45 mins      ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
-JSON                     15 hrs 5 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
-Other                    11 hrs 6 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
-Text                     8 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
+Markdown                 43 hrs              ███████████░░░░░░░░░░░░░░   42.37 % 
+Python                   23 hrs 44 mins      ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
+JSON                     14 hrs              ███░░░░░░░░░░░░░░░░░░░░░░   13.80 % 
+Other                    10 hrs 29 mins      ███░░░░░░░░░░░░░░░░░░░░░░   10.33 % 
+YAML                     4 hrs 58 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
 
 🔥 Editors: 
-Claude Code              62 hrs 59 mins      █████████████░░░░░░░░░░░░   53.77 % 
-Cursor                   27 hrs 34 mins      ██████░░░░░░░░░░░░░░░░░░░   23.54 % 
-Codex Vscode             9 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
-Codex Exec               7 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
-Agent                    7 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+Claude Code              53 hrs 50 mins      █████████████░░░░░░░░░░░░   53.05 % 
+Cursor                   23 hrs 4 mins       ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
+Codex Vscode             8 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+Codex Exec               7 hrs 53 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
+Agent                    7 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.94 % 
 
 💻 Operating System: 
-Mac                      117 hrs 10 mins     █████████████████████████   100.00 % 
+Mac                      101 hrs 29 mins     █████████████████████████   100.00 % 
 ```
 
- Last Updated: 03/10/2026 07:58:04 (UTC+8)
+ Last Updated: 04/10/2026 07:16:40 (UTC+8)
 <!--END_SECTION:waka-->
 
 <div align="center">
