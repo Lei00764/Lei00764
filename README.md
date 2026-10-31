@@ -20,23 +20,23 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 38 hrs 5 mins       ██████████░░░░░░░░░░░░░░░   38.20 % 
-JSON                     22 hrs 59 mins      ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
-TeX                      15 hrs 34 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
-Python                   13 hrs 40 mins      ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-Other                    7 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Markdown                 26 hrs 16 mins      ████████░░░░░░░░░░░░░░░░░   33.90 % 
+JSON                     17 hrs 59 mins      ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
+TeX                      15 hrs 34 mins      █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
+Python                   8 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+Other                    6 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
 
 🔥 Editors: 
-Cursor                   57 hrs 2 mins       ██████████████░░░░░░░░░░░   57.21 % 
-Claude Code              36 hrs 35 mins      █████████░░░░░░░░░░░░░░░░   36.70 % 
-OpenClaw                 3 hrs 44 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
-Codex Vscode             2 hrs 20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+Cursor                   45 hrs 17 mins      ███████████████░░░░░░░░░░   58.42 % 
+Claude Code              26 hrs 55 mins      █████████░░░░░░░░░░░░░░░░   34.72 % 
+OpenClaw                 2 hrs 58 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+Codex Vscode             2 hrs 20 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
 
 💻 Operating System: 
-Mac                      99 hrs 43 mins      █████████████████████████   100.00 % 
+Mac                      77 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
- Last Updated: 31/10/2026 07:59:34 (UTC+8)
+ Last Updated: 01/11/2026 07:37:03 (UTC+8)
 <!--END_SECTION:waka-->
 
 <div align="center">
